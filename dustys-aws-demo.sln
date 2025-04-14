@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorDemo", "BlazorDemo\BlazorDemo.csproj", "{82F91EA3-0815-C2E8-BE64-D1BED25F87B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "..\dustys-aws-demo\ConsoleApp\ConsoleApp.csproj", "{83841346-364E-CA05-981D-430004A40A4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{82F91EA3-0815-C2E8-BE64-D1BED25F87B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82F91EA3-0815-C2E8-BE64-D1BED25F87B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82F91EA3-0815-C2E8-BE64-D1BED25F87B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83841346-364E-CA05-981D-430004A40A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83841346-364E-CA05-981D-430004A40A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83841346-364E-CA05-981D-430004A40A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83841346-364E-CA05-981D-430004A40A4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
